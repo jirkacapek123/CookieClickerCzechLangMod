@@ -6,7 +6,6 @@ Game.registerMod("testing",{
 		var formatLong=[' tisíc',' miliónů',' miliard',' bilionů',' biliard',' Trillionen',' Trilliarden',' quadrilionů',' quadriliard',' quintilionů',' Quintilliarden',' sextilionů',' sextiliard',' septilionů',' Septilliarden',' oktilionů',' oktiliard',' nonilionů',' noniliard'];
 		var prefixes=['','un','duo','tre','Quattuor','Quin','Sex','Septen','Okti','Novem']; //Einer
 		var infixes=['deci','viginti','triginti','quadraginti','quinquaginti','sexaginti','septuaginti','otoginti','nonaginti']; //Zehner klein
-//		var infixesUppercase=['deci','viginti','triginti','quadraginti','quinquaginti','sexaginti','septuaginti','otoginti','nonaginti']; //Zehner (tenner) groß
 		var suffixes=['lionů','liard']; //přípona
 		//Override format for long number names
 		for (var i in infixes)
@@ -15,11 +14,6 @@ Game.registerMod("testing",{
 			{
 				for (var iii in suffixes)
 				{
-//					if (ii == 0)
-//					{
-//						formatLong.push(' '+prefixes[ii]+infixesUppercase[i]+suffixes[iii]);
-//					}
-//					else
 					{
 						formatLong.push(' '+prefixes[ii]+infixes[i]+suffixes[iii]);
 					}
