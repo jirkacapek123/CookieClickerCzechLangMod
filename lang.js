@@ -63,10 +63,20 @@ ModLanguage('CS',{
 		"%1 zlaté sušenky",
 		"%1 zlatých sušenek"
 	],
+	"Thumbcorn": "Prstová kukuřice",
+	"Cronerice": "Cronerice",
+	"Bakeberry": "Pečivové bobule",
 	"Stats": "Statistiky",
 	"Legacy": "Dědictví",
 	"Cookies per second:": "Sušenek za sekundu:",
 	"Raw cookies per second:": "Surové sušenky za sekundu:",
+	"Cookie production x%1 for %2!": "Produkce sušenek x%1 na %2!",
+	"Cookie production +%1% for %2!": "Produkce sušenek +%1% na %2!",
+	"Cookie production %1% slower for %2!": "Produkce sušenek %1% pomalejší na %2!",
+	"Cookie production halved for %1!": "Poloviční produkce sušenek na %1!",
+	"Cookies baked (this ascension):": "Upečeno sušenek (za tento běh):",
+	"Cookies baked (all time):": "Upečeno sušenek (za celou dobu):",
+	"Cookies forfeited by ascending:": "Keksů ztracených postupem:",
 });
 
 ModLanguage('DE',{
