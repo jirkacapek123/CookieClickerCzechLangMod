@@ -1,8 +1,8 @@
 {
-	"Name": "Language Sample Mod",
+	"Name": "Czech language improvements",
 	"ID": "betterCzech",
 	"Author": "George",
-	"Description": "Czech language improvements.",
+	"Description": "Czech language improvements to the terrible built-in translation.",
 	"ModVersion": 1,
 	"GameVersion": 2.053,
 	"Date": "30/05/2025",
