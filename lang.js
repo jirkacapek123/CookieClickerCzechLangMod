@@ -31,10 +31,10 @@ ModLanguage('CS',{
 	//Farm
 	"Farm": "Farma",		//Line 1004
 	"farm": "farma",		//Line 1005
-	"farms": "Felder",	//Line 1006
+	"farms": "Farma",	//Line 1006
 	"%1 farm": [		//Line 1007
-		"%1 Feld",		//Line 1008
-		"%1 Felder"		//Line 1009
+		"%1 Farma",		//Line 1008
+		"%1 Farmy"		//Line 1009
 	],					//Line 1010
 	
 
