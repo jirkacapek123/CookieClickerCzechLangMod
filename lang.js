@@ -77,6 +77,22 @@ ModLanguage('CS',{
 	"Cookies baked (this ascension):": "Upečeno sušenek (za tento běh):",
 	"Cookies baked (all time):": "Upečeno sušenek (za celou dobu):",
 	"Cookies forfeited by ascending:": "Keksů ztracených postupem:",
+		//Sugar lump: mature (ausgewachsen) vs ripe (reif)
+	"Because you've baked a <b>billion cookies</b> in total, you are now attracting <b>sugar lumps</b>. They coalesce quietly near the top of your screen, under the Stats button.<br>You will be able to harvest them when they're ripe, after which you may spend them on all sorts of things!": "Because you've baked a <b>billion cookies</b> in total, you are now attracting <b>sugar lumps</b>. They coalesce quietly near the top of your screen, under the Stats button.<br>You will be able to harvest them when they're ripe, after which you may spend them on all sorts of things!", //Line 501
+	"Your sugar lumps mature after <b>%1</b>,<br>ripen after <b>%2</b>,<br>and fall after <b>%3</b>.": "Your sugar lumps mature after <b>%1</b>,<br>ripen after <b>%2</b>,<br>and fall after <b>%3</b>.", //Line 503
+	"&bull; Sugar lumps can be harvested when mature, though if left alone beyond that point they will start ripening (increasing the chance of harvesting them) and will eventually fall and be auto-harvested after some time.<br>&bull; Sugar lumps are delicious and may be used as currency for all sorts of things.<br>&bull; Once a sugar lump is harvested, another one will start growing in its place.<br>&bull; Note that sugar lumps keep growing when the game is closed.": "&bull; Sugar lumps can be harvested when mature, though if left alone beyond that point they will start ripening (increasing the chance of harvesting them) and will eventually fall and be auto-harvested after some time.<br>&bull; Sugar lumps are delicious and may be used as currency for all sorts of things.<br>&bull; Once a sugar lump is harvested, another one will start growing in its place.<br>&bull; Note that sugar lumps keep growing when the game is closed.", //Line 504
+	"This sugar lump has been exposed to time travel shenanigans and will take an excruciating <b>%1</b> to reach maturity.": "This sugar lump has been exposed to time travel shenanigans and will take an excruciating <b>%1</b> to reach maturity.", //Line 505
+	"This sugar lump is still growing and will take <b>%1</b> to reach maturity.": "This sugar lump is still growing and will take <b>%1</b> to reach maturity.", //Line 506
+	"This sugar lump is mature and will be ripe in <b>%1</b>.<br>You may <b>click it to harvest it now</b>, but there is a <b>50% chance you won't get anything</b>.": "This sugar lump is mature and will be ripe in <b>%1</b>.<br>You may <b>click it to harvest it now</b>, but there is a <b>50% chance you won't get anything</b>.", //Line 507
+	"<b>This sugar lump is ripe! Click it to harvest it.</b><br>If you do nothing, it will auto-harvest in <b>%1</b>.": "<b>This sugar lump is ripe! Click it to harvest it.</b><br>If you do nothing, it will auto-harvest in <b>%1</b>.", //Line 508
+	
+	"Sugar lumps ripen <b>%1</b> sooner.": "Sugar lumps ripen <b>%1</b> sooner.", //Line 1365
+	"Sugar lumps mature <b>%1</b> sooner.": "Sugar lumps mature <b>%1</b> sooner.", //Line 1366
+	
+	"Successfully harvest a coalescing sugar lump before it's ripe.": "Successfully harvest a coalescing sugar lump before it's ripe.", //1520
+	
+	//Achievement
+	"Make <b>%1</b> from clicking.": "Vyrob <b>%1</b> klikáním.", //Line 1470
 });
 
 ModLanguage('DE',{
@@ -95,24 +111,4 @@ ModLanguage('DE',{
 		"%1 Feld",		//Line 1008
 		"%1 Felder"		//Line 1009
 	],					//Line 1010
-	
-	
-	
-	//Sugar lump: mature (ausgewachsen) vs ripe (reif)
-	"Because you've baked a <b>billion cookies</b> in total, you are now attracting <b>sugar lumps</b>. They coalesce quietly near the top of your screen, under the Stats button.<br>You will be able to harvest them when they're ripe, after which you may spend them on all sorts of things!": "Because you've baked a <b>billion cookies</b> in total, you are now attracting <b>sugar lumps</b>. They coalesce quietly near the top of your screen, under the Stats button.<br>You will be able to harvest them when they're ripe, after which you may spend them on all sorts of things!", //Line 501
-	"Your sugar lumps mature after <b>%1</b>,<br>ripen after <b>%2</b>,<br>and fall after <b>%3</b>.": "Your sugar lumps mature after <b>%1</b>,<br>ripen after <b>%2</b>,<br>and fall after <b>%3</b>.", //Line 503
-	"&bull; Sugar lumps can be harvested when mature, though if left alone beyond that point they will start ripening (increasing the chance of harvesting them) and will eventually fall and be auto-harvested after some time.<br>&bull; Sugar lumps are delicious and may be used as currency for all sorts of things.<br>&bull; Once a sugar lump is harvested, another one will start growing in its place.<br>&bull; Note that sugar lumps keep growing when the game is closed.": "&bull; Sugar lumps can be harvested when mature, though if left alone beyond that point they will start ripening (increasing the chance of harvesting them) and will eventually fall and be auto-harvested after some time.<br>&bull; Sugar lumps are delicious and may be used as currency for all sorts of things.<br>&bull; Once a sugar lump is harvested, another one will start growing in its place.<br>&bull; Note that sugar lumps keep growing when the game is closed.", //Line 504
-	"This sugar lump has been exposed to time travel shenanigans and will take an excruciating <b>%1</b> to reach maturity.": "This sugar lump has been exposed to time travel shenanigans and will take an excruciating <b>%1</b> to reach maturity.", //Line 505
-	"This sugar lump is still growing and will take <b>%1</b> to reach maturity.": "This sugar lump is still growing and will take <b>%1</b> to reach maturity.", //Line 506
-	"This sugar lump is mature and will be ripe in <b>%1</b>.<br>You may <b>click it to harvest it now</b>, but there is a <b>50% chance you won't get anything</b>.": "This sugar lump is mature and will be ripe in <b>%1</b>.<br>You may <b>click it to harvest it now</b>, but there is a <b>50% chance you won't get anything</b>.", //Line 507
-	"<b>This sugar lump is ripe! Click it to harvest it.</b><br>If you do nothing, it will auto-harvest in <b>%1</b>.": "<b>Dieser Würfelzucker ist reif! Klicke ihn an, um ihn zu ernten.</b><br>Wenn du nichts tust, wird er in <b>%1</b> automatisch geerntet.", //Line 508
-	
-	"Sugar lumps ripen <b>%1</b> sooner.": "Würfelzucker sind <b>%1</b> früher ausgewachsen.", //Line 1365
-	"Sugar lumps mature <b>%1</b> sooner.": "Sugar lumps mature <b>%1</b> sooner.", //Line 1366
-	
-	"Successfully harvest a coalescing sugar lump before it's ripe.": "Successfully harvest a coalescing sugar lump before it's ripe.", //1520
-	
-	//Achievement
-	"Make <b>%1</b> from clicking.": "Vyrob <b>%1</b> klikáním.", //Line 1470
-	
 });
